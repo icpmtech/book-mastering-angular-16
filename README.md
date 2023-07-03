@@ -1,11 +1,10 @@
 # Mastering Angular 16: A Concise Overview About Angular 16 Development
 ## Master of Angular Series
-https://github.com/NicolasRoehm/angular-boilerplate
-
+Based in the clone project of https://github.com/NicolasRoehm/angular-boilerplate
+BookStore
 This project was generated with Angular CLI version 16.1.0.
-
 Usage
-Rename EasyAngular and easy-angular with your project name
+Rename BookStore and easy-angular with your project name
 Place favicon generated with RealFavIconGenerator into src/assets/img/favicon folder
 Tools
 Generate models form JSON - https://app.quicktype.io/
